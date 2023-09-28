@@ -13,5 +13,6 @@ int main()
    {
     printf("%d*%d=%d\n",n,i+1,mul[i]);
    } 
+   printf("So, Here table printed.");
     return 0;
 }
